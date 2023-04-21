@@ -1,2 +1,2 @@
-# Learning Opengl
+# Learning OpenGL
 My Journey of learning OpenGL
